@@ -9,3 +9,4 @@ apache/shenyu-admin
 apache/shenyu-bootstrap:2.5.0
 apache/shenyu-admin:2.5.0
 nacos/nacos-server:v2.2.3
+easysoft/zentao:12.3.3

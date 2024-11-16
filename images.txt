@@ -12,3 +12,4 @@ nacos/nacos-server:v2.2.3
 easysoft/zentao:12.3.3
 easysoft/zentao
 easysoft/zentao:21.0
+metersphere

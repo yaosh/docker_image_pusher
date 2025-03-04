@@ -14,4 +14,5 @@ easysoft/zentao
 easysoft/zentao:21.0
 metersphere
 timescale/timescaledb:latest-pg14
-timescale/timescaledb-ha:pg16-ts2.17-all
+timescale/timescaledb-ha:pg16-ts2.17-all 
+
